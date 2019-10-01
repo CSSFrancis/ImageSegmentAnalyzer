@@ -75,7 +75,7 @@ class Image(object):
                                      column_start=column_start)
 
     def get_all_positions(self):
-        positions ={}
+        positions = {}
         for i in self.sections:
             positions[self.sections[i].name] = self.sections[i].get_indexes()
         return positions
