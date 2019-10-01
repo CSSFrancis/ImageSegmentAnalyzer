@@ -1,4 +1,4 @@
-from setuptools import setup,
+from setuptools import setup, find_packages
 from os import path
 
 here = path.abspath(path.dirname(__file__))
@@ -11,7 +11,9 @@ setup(name='imageSegmentAnalyzer',
       author='CSSFrancis',
       author_email='csfrancis@wisc.edu',
       liscense='MIT',
-      packages=['imageSegmentAnalyzer'],
+      packages=['imageSegmentAnalyzer',
+                'imageSegmentAnalyzer.image',
+                'imageSegmentAnalyzer.io'],
       install_requires=['numpy>=1.10,!=1.70.0',
                         'matplotlib',
                         'rawpy'],
