@@ -100,12 +100,13 @@ class Image(object):
 
     def get_values(self, pixels=20, type="max", output="Intensities.txt"):
         seg = self.get_segmented(pixels=pixels)
+        values = {}
         with open(self.name+output, "w") as f:
             if type is "max":
                 for key in seg.keys():
                     f.write(key+ ", " + str(np.max(seg[key]))+"\n")
-
-
+                    values[key] = np.max(seg[key])
+        return values
 
     def set_references(self):
         """ Set a reference to be saved with the image and applied when certain methods are preformed.
