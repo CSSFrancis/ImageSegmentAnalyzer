@@ -38,7 +38,7 @@ class TestImage(TestCase):
         plt.imshow(seg['column1Aa0'])
         plt.show()
 
-    def test_segment_images(self):
+    def test_getValues_images(self):
         self.I.select_points(name="column1A", shape="rectangle", rows=33, columns=8)
         self.I.show()
         plt.show()
