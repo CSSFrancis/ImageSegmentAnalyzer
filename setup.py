@@ -4,7 +4,7 @@ from os import path
 here = path.abspath(path.dirname(__file__))
 
 setup(name='imageSegmentAnalyzer',
-      version='0.15',
+      version='0.16',
       description='For segmenting and analyzing images',
       keywords='Image analysis',
       url='https://github.com/CSSFrancis/empyer',
