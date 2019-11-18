@@ -1,264 +1,147 @@
-column1A-a0, 165
-column1A-a1, 196
-column1A-a2, 215
-column1A-a3, 225
-column1A-a4, 212
-column1A-a5, 192
-column1A-a6, 180
-column1A-a7, 171
-column1A-b0, 178
-column1A-b1, 197
-column1A-b2, 203
-column1A-b3, 202
-column1A-b4, 204
-column1A-b5, 189
-column1A-b6, 173
-column1A-b7, 174
-column1A-c0, 161
-column1A-c1, 198
-column1A-c2, 208
-column1A-c3, 198
-column1A-c4, 191
-column1A-c5, 190
-column1A-c6, 171
-column1A-c7, 175
-column1A-d0, 171
-column1A-d1, 184
-column1A-d2, 195
-column1A-d3, 194
-column1A-d4, 196
-column1A-d5, 190
-column1A-d6, 179
-column1A-d7, 182
-column1A-e0, 166
-column1A-e1, 172
-column1A-e2, 191
-column1A-e3, 194
-column1A-e4, 196
-column1A-e5, 195
-column1A-e6, 193
-column1A-e7, 200
-column1A-f0, 170
-column1A-f1, 182
-column1A-f2, 194
-column1A-f3, 195
-column1A-f4, 182
-column1A-f5, 182
-column1A-f6, 186
-column1A-f7, 198
-column1A-g0, 169
-column1A-g1, 178
-column1A-g2, 184
-column1A-g3, 185
-column1A-g4, 179
-column1A-g5, 172
-column1A-g6, 183
-column1A-g7, 209
-column1A-h0, 175
-column1A-h1, 183
-column1A-h2, 189
-column1A-h3, 185
-column1A-h4, 181
-column1A-h5, 173
-column1A-h6, 175
-column1A-h7, 198
-column1A-i0, 165
-column1A-i1, 181
-column1A-i2, 186
-column1A-i3, 184
-column1A-i4, 182
-column1A-i5, 175
-column1A-i6, 182
-column1A-i7, 200
-column1A-j0, 169
-column1A-j1, 182
-column1A-j2, 186
-column1A-j3, 182
-column1A-j4, 179
-column1A-j5, 179
-column1A-j6, 167
-column1A-j7, 198
-column1A-k0, 159
-column1A-k1, 174
-column1A-k2, 178
-column1A-k3, 179
-column1A-k4, 181
-column1A-k5, 179
-column1A-k6, 159
-column1A-k7, 194
-column1A-l0, 156
-column1A-l1, 175
-column1A-l2, 176
-column1A-l3, 178
-column1A-l4, 175
-column1A-l5, 167
-column1A-l6, 165
-column1A-l7, 188
-column1A-m0, 154
-column1A-m1, 170
-column1A-m2, 176
-column1A-m3, 171
-column1A-m4, 165
-column1A-m5, 153
-column1A-m6, 161
-column1A-m7, 170
-column1A-n0, 156
-column1A-n1, 174
-column1A-n2, 179
-column1A-n3, 172
-column1A-n4, 170
-column1A-n5, 160
-column1A-n6, 163
-column1A-n7, 177
-column1A-o0, 141
-column1A-o1, 167
-column1A-o2, 175
-column1A-o3, 172
-column1A-o4, 163
-column1A-o5, 165
-column1A-o6, 162
-column1A-o7, 181
-column1A-p0, 153
-column1A-p1, 179
-column1A-p2, 178
-column1A-p3, 176
-column1A-p4, 169
-column1A-p5, 170
-column1A-p6, 171
-column1A-p7, 190
-column1A-q0, 157
-column1A-q1, 175
-column1A-q2, 183
-column1A-q3, 185
-column1A-q4, 184
-column1A-q5, 175
-column1A-q6, 175
-column1A-q7, 190
-column1A-r0, 164
-column1A-r1, 187
-column1A-r2, 185
-column1A-r3, 188
-column1A-r4, 198
-column1A-r5, 184
-column1A-r6, 186
-column1A-r7, 192
-column1A-s0, 174
-column1A-s1, 185
-column1A-s2, 185
-column1A-s3, 184
-column1A-s4, 189
-column1A-s5, 188
-column1A-s6, 181
-column1A-s7, 193
-column1A-t0, 180
-column1A-t1, 196
-column1A-t2, 183
-column1A-t3, 187
-column1A-t4, 183
-column1A-t5, 182
-column1A-t6, 183
-column1A-t7, 200
-column1A-u0, 172
-column1A-u1, 181
-column1A-u2, 189
-column1A-u3, 183
-column1A-u4, 179
-column1A-u5, 186
-column1A-u6, 187
-column1A-u7, 200
-column1A-v0, 183
-column1A-v1, 184
-column1A-v2, 189
-column1A-v3, 190
-column1A-v4, 190
-column1A-v5, 186
-column1A-v6, 192
-column1A-v7, 206
-column1A-w0, 170
-column1A-w1, 187
-column1A-w2, 192
-column1A-w3, 189
-column1A-w4, 196
-column1A-w5, 190
-column1A-w6, 187
-column1A-w7, 204
-column1A-x0, 167
-column1A-x1, 185
-column1A-x2, 193
-column1A-x3, 198
-column1A-x4, 197
-column1A-x5, 196
-column1A-x6, 195
-column1A-x7, 214
-column1A-y0, 177
-column1A-y1, 175
-column1A-y2, 185
-column1A-y3, 184
-column1A-y4, 194
-column1A-y5, 195
-column1A-y6, 183
-column1A-y7, 212
-column1A-zaa0, 183
-column1A-zaa1, 187
-column1A-zaa2, 192
-column1A-zaa3, 195
-column1A-zaa4, 197
-column1A-zaa5, 193
-column1A-zaa6, 191
-column1A-zaa7, 214
-column1A-bb0, 181
-column1A-bb1, 180
-column1A-bb2, 189
-column1A-bb3, 197
-column1A-bb4, 196
-column1A-bb5, 197
-column1A-bb6, 189
-column1A-bb7, 210
-column1A-cc0, 182
-column1A-cc1, 180
-column1A-cc2, 187
-column1A-cc3, 193
-column1A-cc4, 193
-column1A-cc5, 194
-column1A-cc6, 190
-column1A-cc7, 201
-column1A-dd0, 170
-column1A-dd1, 177
-column1A-dd2, 184
-column1A-dd3, 189
-column1A-dd4, 191
-column1A-dd5, 193
-column1A-dd6, 189
-column1A-dd7, 195
-column1A-ee0, 165
-column1A-ee1, 168
-column1A-ee2, 177
-column1A-ee3, 177
-column1A-ee4, 186
-column1A-ee5, 186
-column1A-ee6, 178
-column1A-ee7, 191
-column1A-ff0, 169
-column1A-ff1, 168
-column1A-ff2, 173
-column1A-ff3, 175
-column1A-ff4, 175
-column1A-ff5, 175
-column1A-ff6, 168
-column1A-ff7, 184
-column1A-gg0, 153
-column1A-gg1, 160
-column1A-gg2, 172
-column1A-gg3, 172
-column1A-gg4, 169
-column1A-gg5, 171
-column1A-gg6, 151
-column1A-gg7, 187
-column1A-hh0, 162
-column1A-hh1, 182
-column1A-hh2, 195
-column1A-hh3, 189
-column1A-hh4, 184
-column1A-hh5, 191
-column1A-hh6, 205
-column1A-hh7, 134
+
+column1A
+       0    1    2    3    4    5    6    7
+a     99  119  125  130  125  120  108  120
+b    104  117  115  115  110  115  122  117
+c    103  119  115  118  115  117  110  104
+d    102  116  124  112  112  110  138  122
+e    114  111  119  118  116  116  113  117
+f    109  115  121  126  115  114  116  116
+g    118  118  119  119  116  117  115  117
+h    106  116  121  123  119  117  113  120
+i    108  120  122  126  121  116  120  124
+j    113  121  123  124  127  127  116  121
+k     99  119  128  126  128  122  118  118
+l    101  124  128  126  127  120  117  124
+m    103  127  131  129  126  128  117  122
+n    119  126  132  126  125  123  122  120
+o    104  128  137  134  128  130  127  132
+p    117  134  136  131  129  132  132  132
+q    117  135  141  139  141  134  136  140
+r    129  145  144  141  142  136  137  143
+s    123  143  142  146  145  137  136  141
+t    131  150  149  142  143  137  134  139
+u    125  146  144  142  153  142  138  145
+v    121  142  147  147  149  148  139  143
+w    124  150  149  147  149  153  142  146
+x    123  144  156  153  154  152  152  151
+y    146  149  153  151  158  151  148  149
+zaa  146  158  156  155  159  158  161  153
+bb   163  150  152  160  161  164  155  155
+cc   155  143  159  158  157  157  158  171
+dd   141  153  154  154  155  152  149  143
+ee   121  145  145  141  147  143  140  135
+ff   126  137  142  137  135  135  126  116
+gg   118  129  137  131  131  129  117  134
+hh   146  183  172  145  168  159  163  126
+column2A
+     0    1
+a  117  137
+b  135  155
+c  127  161
+d  143  168
+e  137  168
+f  153  144
+g  183  167
+h  140  167
+i  111  138
+j  127  167
+k  162  179
+l  129  198
+m   93  132
+n  171  139
+o  173  141
+p  181  141
+q  181  137
+column2A-2
+       0    1
+r    174  151
+s    171  148
+t    172  160
+u    171  161
+v    169  173
+w    171  176
+x    173  181
+y    176  178
+zaa  177  179
+bb   181  184
+cc   181  184
+dd   180  187
+ee   180  191
+ff   182  184
+gg   180  180
+hh   178  178
+column2A-3
+     6    7    8
+a  154  150  122
+b  126  136  120
+c  133  158  149
+d  144  152  191
+e  138  105  144
+f  145  135  143
+g  148  124  177
+h  130  157  133
+i  138  181  221
+j  147  229  219
+k  143  176  218
+l  170  165  151
+m  138  135  121
+n  140  136  132
+o  139  134  125
+p  132  129  135
+column2A-4
+       6    7    8
+q    149  133  134
+r    145  133  151
+s    151  139  124
+t    154  135  135
+u    170  148  144
+v    170  163  168
+w    173  167  168
+x    161  163  166
+y    187  166  168
+zaa  188  157  162
+bb   185  170  152
+cc   188  177  151
+dd   189  172  155
+ee   191  175  160
+ff   191  173  166
+gg   190  179  164
+hh   184  165  158
+column3A-1
+     0    1    2    3    4    5    6    7
+a  133  137  134  120  121  130  111  110
+b  126  128  140  124  100  101  123  120
+c  140  141  124  130  127  114  113  122
+d  139  143  144  131  126  123  123  123
+e  124  148  144  141  133  129  135  133
+f  131  145  142  154  138  141  140  135
+g  134  145  141  145  141  141  136  131
+h  133  147  146  144  149  138  128  124
+i  136  149  144  143  147  142  137  127
+j  143  144  142  141  134  140  145  140
+k  137  152  147  140  140  137  143  139
+l  148  148  144  143  135  135  137  134
+m  142  154  153  151  141  143  142  130
+n  145  149  144  151  140  142  148  145
+o  149  150  150  142  137  137  127  124
+p  139  134  139  135  136  124  124  118
+column3A-2
+       0    1    2    3    4    5    6    7
+r    141  146  139  130  132  134  121  131
+s    146  147  149  148  142  138  140  139
+t    159  148  152  136  139  137  125  123
+u    166  153  145  139  146  132  132  129
+v    164  162  160  145  140  142  143  138
+w    151  160  155  161  147  143  136  141
+x    158  173  170  161  158  146  139  136
+y    183  179  177  167  156  147  144  147
+zaa  139  168  157  159  148  160  149  139
+bb   137  163  167  147  130  155  153  135
+cc   149  160  159  157  145  150  152  147
+dd   163  169  172  157  156  154  153  151
+ee   176  175  173  165  162  153  156  152
+ff   165  166  167  166  156  171  149  142
+gg   168  164  176  162  155  149  143  145
+hh   161  170  170  170  148  144  149  152
+ii   146  165  177  162  159  151  152  140
