@@ -30,7 +30,7 @@ class Image(object):
         """
         self.processed_image = rgb2grey(self.image.postprocess(output_color=color))
 
-    def select_points(self, name, shape="rectangle", rows=None, columns=None, column_start=0, row_start=0, addPoints=True, p =[]):
+    def select_points(self, name, shape="rectangle", rows=None, columns=None, column_start=0, row_start=0, interactive=True, p =[]):
         """ Creates a section object and appends it to the sections list
          Parameters
          ------------
@@ -46,7 +46,7 @@ class Image(object):
 
         if self.processed_image is None:
             self.process_image()
-        if addPoints:
+        if interactive:
             points = []
             print("here")
             fig, ax = plt.subplots()
